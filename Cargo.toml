@@ -1,0 +1,16 @@
+[package]
+name = "opentracing"
+version = "0.1.0"
+authors = ["Chris Jones <chris.jones@lambdastack.io>"]
+license = "Apache-2.0"
+readme = "README.md"
+keywords = ["opentracing", "trace", "open"]
+repository = "https://github.com/lambdastackio/opentracing"
+homepage = "https://github.com/lambdastackio/opentracing"
+documentation = "https://lambdastackio.github.io/opentracing/opentracing"
+description = """
+OpenTracing API for Rust. DO NOT USE - WIP.
+"""
+
+[dependencies]
+lsio = "0"
